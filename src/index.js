@@ -1,4 +1,4 @@
-const Dog = require('./dog')
+import Dog from './dog'
 
 const str = "ES6"
 console.log(`Hello,${str} 世界`)
