@@ -1,4 +1,4 @@
-import Dog from './dog'
+import Dog from '../shared/dog'
 
 const str = 'ES6'
 console.log(`Hello,${str} 世界`)
