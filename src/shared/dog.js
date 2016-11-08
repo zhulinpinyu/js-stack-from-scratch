@@ -6,4 +6,8 @@ export default class Dog {
   bark() {
     return `Wah,wah, this is ${this.name}`
   }
+
+  barkInConsole() {
+    console.log(this.bark())
+  }
 }
